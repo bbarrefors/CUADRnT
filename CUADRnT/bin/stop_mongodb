@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-mongo 127.0.0.1:8230/admin --eval "db.shutdownServer()"

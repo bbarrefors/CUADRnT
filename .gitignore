@@ -3,3 +3,4 @@
 .DS_Store
 build
 venv
+py27env
